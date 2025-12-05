@@ -1,6 +1,6 @@
 # dot
 
-dot - minimal, modern OS under active development.  
+I can't believe it's not Linux.
 
 ![black screen showing the word dot as yellow ascii art, under that a system setting up boot sequence](screenshots/preview.png)
 
