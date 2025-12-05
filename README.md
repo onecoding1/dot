@@ -1,6 +1,6 @@
 # dot
 
- A minimal, modern OS under active development.
+I Can't Believe It's Not Linux!
 
 ![black screen showing the word dot as yellow ascii art, under that a system setting up boot sequence](screenshots/preview.png)
 
@@ -29,7 +29,3 @@ It focuses on simplicity, modularity, and innovation while remaining minimal and
 ```bash
 git clone git@github.com:onecoding1/dot.git
 ```
-
----
-
-I Can't Believe It's Not Linux!
