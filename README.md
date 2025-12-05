@@ -1,6 +1,6 @@
-# dot
+# dot - I Can't Believe It's Not Linux!
 
-I Can't Believe It's Not Linux!
+
 
 ![black screen showing the word dot as yellow ascii art, under that a system setting up boot sequence](screenshots/preview.png)
 
