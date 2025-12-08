@@ -6,8 +6,7 @@
 
 ## Overview
 
-dot is an experimental operating system designed for learning and exploration.  
-It focuses on simplicity, modularity, and innovation while remaining minimal and flexible.
+dot is a small, fast operating system built around a dynamic hardware registry and an event-driven core. It focuses on clean design, modular drivers, and predictable behavior across hardware platforms; from microcontrollers to full x86 PCs. Lightweight, flexible, and easy to extend.
 
 ---
 
