@@ -10,15 +10,6 @@ dot is a small, fast operating system built around a dynamic hardware registry a
 
 ---
 
-## Features
-
-- Lightweight and modular
-- User-facing interfaces (CLI, GUI) in development
-- Platform-independent core
-- Active experimentation with new OS ideas
-
----
-
 ## Getting Started
 
 1. Clone the repository:
