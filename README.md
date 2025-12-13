@@ -2,7 +2,7 @@
 
  A minimal, modern OS under active development.
 
-![black screen showing the word dot as yellow ascii art, under that a system setting up boot sequence](screenshots/preview.png)
+![black screen showing the word dot as yellow ascii art, under that a system setting up boot sequence](screenshots/preview2.png)
 
 ---
 
