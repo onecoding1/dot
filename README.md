@@ -1,10 +1,26 @@
-# dot - I Can't Believe It's Not Linux!
+# dot
 
-![black screen showing the word dot as yellow ascii art, under that a system setting up boot sequence](screenshots/preview2.png)
+ A minimal, modern OS under active development.
+
+![black screen showing the word dot as yellow ascii art, under that a system setting up boot sequence](screenshots/preview3.png)
+
+---
 
 ## Overview
 
-dot is a small, fast operating system built around a dynamic hardware registry and an event-driven core. It focuses on clean design, modular drivers, and predictable behavior across hardware platforms; from microcontrollers to full x86 PCs. Lightweight, flexible, and easy to extend.
+dot is an experimental operating system designed for learning and exploration.  
+It focuses on simplicity, modularity, and innovation while remaining minimal and flexible.
+
+---
+
+## Features
+
+- Lightweight and modular
+- User-facing interfaces (CLI, GUI) in development
+- Platform-independent core
+- Active experimentation with new OS ideas
+
+---
 
 ## Getting Started
 
@@ -13,3 +29,7 @@ dot is a small, fast operating system built around a dynamic hardware registry a
 ```bash
 git clone git@github.com:onecoding1/dot.git
 ```
+
+---
+
+I Can't Believe It's Not Linux!
